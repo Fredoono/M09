@@ -1,0 +1,7 @@
+C:\Users\ESEN\source\repos\Tarefa\Tarefa\bin\Debug\Tarefa.exe.config
+C:\Users\ESEN\source\repos\Tarefa\Tarefa\bin\Debug\Tarefa.exe
+C:\Users\ESEN\source\repos\Tarefa\Tarefa\bin\Debug\Tarefa.pdb
+C:\Users\ESEN\source\repos\Tarefa\Tarefa\obj\Debug\Tarefa.csproj.AssemblyReference.cache
+C:\Users\ESEN\source\repos\Tarefa\Tarefa\obj\Debug\Tarefa.csproj.CoreCompileInputs.cache
+C:\Users\ESEN\source\repos\Tarefa\Tarefa\obj\Debug\Tarefa.exe
+C:\Users\ESEN\source\repos\Tarefa\Tarefa\obj\Debug\Tarefa.pdb
