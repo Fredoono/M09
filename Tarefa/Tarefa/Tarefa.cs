@@ -10,8 +10,9 @@ namespace Tarefa
     {
         public string nome_tarefa;
         public string datalimite;
-        static int ID_da_tarefa;
+        public int ID_da_tarefa;
         public string descrição;
         public bool está_completa;
     }
 }
+

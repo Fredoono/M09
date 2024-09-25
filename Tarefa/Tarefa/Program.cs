@@ -102,7 +102,7 @@ namespace Tarefa
                     int ID = Convert.ToInt16(Console.ReadLine());
                     foreach (var tarefa in lista_de_tarefas)
                     {
-                        if (tarefa.ID_da_tarefa == ID) /
+                        if (tarefa.ID_da_tarefa == ID) 
                             Console.WriteLine("insira o novo nome que deseja editar");
                             string novo_nome = Console.ReadLine();
                             Console.WriteLine("insira a nova data que deseja editar");
@@ -129,5 +129,3 @@ namespace Tarefa
                 }
             }
         }
-    }
-
