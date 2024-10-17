@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ESEN\\Desktop\\M09\\Gestor_Biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{303C1333-C028-43EC-B448-BE0345F854C6}|Gestor_Biblioteca\\Gestor_Biblioteca.csproj|C:\\Users\\ESEN\\Desktop\\M09\\Gestor_Biblioteca\\gestor_biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303C1333-C028-43EC-B448-BE0345F854C6}|Gestor_Biblioteca\\Gestor_Biblioteca.csproj|solutionrelative:gestor_biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303C1333-C028-43EC-B448-BE0345F854C6}|Gestor_Biblioteca\\Gestor_Biblioteca.csproj|c:\\users\\esen\\desktop\\m09\\gestor_biblioteca\\gestor_biblioteca\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303C1333-C028-43EC-B448-BE0345F854C6}|Gestor_Biblioteca\\Gestor_Biblioteca.csproj|solutionrelative:gestor_biblioteca\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303C1333-C028-43EC-B448-BE0345F854C6}|Gestor_Biblioteca\\Gestor_Biblioteca.csproj|C:\\Users\\ESEN\\Desktop\\M09\\Gestor_Biblioteca\\gestor_biblioteca\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303C1333-C028-43EC-B448-BE0345F854C6}|Gestor_Biblioteca\\Gestor_Biblioteca.csproj|solutionrelative:gestor_biblioteca\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\ESEN\\Desktop\\M09\\Gestor_Biblioteca\\Gestor_Biblioteca\\Book.cs",
+              "RelativeDocumentMoniker": "Gestor_Biblioteca\\Book.cs",
+              "ToolTip": "C:\\Users\\ESEN\\Desktop\\M09\\Gestor_Biblioteca\\Gestor_Biblioteca\\Book.cs",
+              "RelativeToolTip": "Gestor_Biblioteca\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:47:20.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\ESEN\\Desktop\\M09\\Gestor_Biblioteca\\Gestor_Biblioteca\\Users.cs",
+              "RelativeDocumentMoniker": "Gestor_Biblioteca\\Users.cs",
+              "ToolTip": "C:\\Users\\ESEN\\Desktop\\M09\\Gestor_Biblioteca\\Gestor_Biblioteca\\Users.cs",
+              "RelativeToolTip": "Gestor_Biblioteca\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:44:34.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ESEN\\Desktop\\M09\\Gestor_Biblioteca\\Gestor_Biblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "Gestor_Biblioteca\\Program.cs",
+              "ToolTip": "C:\\Users\\ESEN\\Desktop\\M09\\Gestor_Biblioteca\\Gestor_Biblioteca\\Program.cs",
+              "RelativeToolTip": "Gestor_Biblioteca\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:30:52.598Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

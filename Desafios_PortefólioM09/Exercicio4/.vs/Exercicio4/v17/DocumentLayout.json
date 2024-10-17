@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ESEN\\Desktop\\M09\\Desafios_Portef\u00F3lioM09\\Exercicio4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{542CD7F1-49B7-460D-839E-484E2FE476C4}|Exercicio4\\Exercicio4.csproj|c:\\users\\esen\\desktop\\m09\\desafios_portef\u00F3liom09\\exercicio4\\exercicio4\\bilhetevip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542CD7F1-49B7-460D-839E-484E2FE476C4}|Exercicio4\\Exercicio4.csproj|solutionrelative:exercicio4\\bilhetevip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542CD7F1-49B7-460D-839E-484E2FE476C4}|Exercicio4\\Exercicio4.csproj|C:\\Users\\ESEN\\Desktop\\M09\\Desafios_Portef\u00F3lioM09\\Exercicio4\\exercicio4\\bilhete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542CD7F1-49B7-460D-839E-484E2FE476C4}|Exercicio4\\Exercicio4.csproj|solutionrelative:exercicio4\\bilhete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542CD7F1-49B7-460D-839E-484E2FE476C4}|Exercicio4\\Exercicio4.csproj|C:\\Users\\ESEN\\Desktop\\M09\\Desafios_Portef\u00F3lioM09\\Exercicio4\\exercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542CD7F1-49B7-460D-839E-484E2FE476C4}|Exercicio4\\Exercicio4.csproj|solutionrelative:exercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BilheteVip.cs",
+              "DocumentMoniker": "C:\\Users\\ESEN\\Desktop\\M09\\Desafios_Portef\u00F3lioM09\\Exercicio4\\Exercicio4\\BilheteVip.cs",
+              "RelativeDocumentMoniker": "Exercicio4\\BilheteVip.cs",
+              "ToolTip": "C:\\Users\\ESEN\\Desktop\\M09\\Desafios_Portef\u00F3lioM09\\Exercicio4\\Exercicio4\\BilheteVip.cs",
+              "RelativeToolTip": "Exercicio4\\BilheteVip.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:17:22.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bilhete.cs",
+              "DocumentMoniker": "C:\\Users\\ESEN\\Desktop\\M09\\Desafios_Portef\u00F3lioM09\\Exercicio4\\Exercicio4\\Bilhete.cs",
+              "RelativeDocumentMoniker": "Exercicio4\\Bilhete.cs",
+              "ToolTip": "C:\\Users\\ESEN\\Desktop\\M09\\Desafios_Portef\u00F3lioM09\\Exercicio4\\Exercicio4\\Bilhete.cs",
+              "RelativeToolTip": "Exercicio4\\Bilhete.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:15:24.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ESEN\\Desktop\\M09\\Desafios_Portef\u00F3lioM09\\Exercicio4\\Exercicio4\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio4\\Program.cs",
+              "ToolTip": "C:\\Users\\ESEN\\Desktop\\M09\\Desafios_Portef\u00F3lioM09\\Exercicio4\\Exercicio4\\Program.cs",
+              "RelativeToolTip": "Exercicio4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:59:22.566Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

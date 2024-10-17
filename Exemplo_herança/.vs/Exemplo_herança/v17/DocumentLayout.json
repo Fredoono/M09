@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ESEN\\Desktop\\M09\\Exemplo_heran\u00E7a\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9451A7-D8BC-4A11-AD54-75EA03A7C72F}|Exemplo_heran\u00E7a\\Exemplo_heran\u00E7a.csproj|c:\\users\\esen\\desktop\\m09\\exemplo_heran\u00E7a\\exemplo_heran\u00E7a\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9451A7-D8BC-4A11-AD54-75EA03A7C72F}|Exemplo_heran\u00E7a\\Exemplo_heran\u00E7a.csproj|solutionrelative:exemplo_heran\u00E7a\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9451A7-D8BC-4A11-AD54-75EA03A7C72F}|Exemplo_heran\u00E7a\\Exemplo_heran\u00E7a.csproj|C:\\Users\\ESEN\\Desktop\\M09\\Exemplo_heran\u00E7a\\exemplo_heran\u00E7a\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9451A7-D8BC-4A11-AD54-75EA03A7C72F}|Exemplo_heran\u00E7a\\Exemplo_heran\u00E7a.csproj|solutionrelative:exemplo_heran\u00E7a\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9451A7-D8BC-4A11-AD54-75EA03A7C72F}|Exemplo_heran\u00E7a\\Exemplo_heran\u00E7a.csproj|c:\\users\\esen\\desktop\\m09\\exemplo_heran\u00E7a\\exemplo_heran\u00E7a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9451A7-D8BC-4A11-AD54-75EA03A7C72F}|Exemplo_heran\u00E7a\\Exemplo_heran\u00E7a.csproj|solutionrelative:exemplo_heran\u00E7a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9451A7-D8BC-4A11-AD54-75EA03A7C72F}|Exemplo_heran\u00E7a\\Exemplo_heran\u00E7a.csproj|C:\\Users\\ESEN\\Desktop\\M09\\Exemplo_heran\u00E7a\\exemplo_heran\u00E7a\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9451A7-D8BC-4A11-AD54-75EA03A7C72F}|Exemplo_heran\u00E7a\\Exemplo_heran\u00E7a.csproj|solutionrelative:exemplo_heran\u00E7a\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Users\\ESEN\\Desktop\\M09\\Exemplo_heran\u00E7a\\Exemplo_heran\u00E7a\\Professor.cs",
+              "RelativeDocumentMoniker": "Exemplo_heran\u00E7a\\Professor.cs",
+              "ToolTip": "C:\\Users\\ESEN\\Desktop\\M09\\Exemplo_heran\u00E7a\\Exemplo_heran\u00E7a\\Professor.cs",
+              "RelativeToolTip": "Exemplo_heran\u00E7a\\Professor.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwBsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:30:47.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\ESEN\\Desktop\\M09\\Exemplo_heran\u00E7a\\Exemplo_heran\u00E7a\\Aluno.cs",
+              "RelativeDocumentMoniker": "Exemplo_heran\u00E7a\\Aluno.cs",
+              "ToolTip": "C:\\Users\\ESEN\\Desktop\\M09\\Exemplo_heran\u00E7a\\Exemplo_heran\u00E7a\\Aluno.cs",
+              "RelativeToolTip": "Exemplo_heran\u00E7a\\Aluno.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:06:41.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\ESEN\\Desktop\\M09\\Exemplo_heran\u00E7a\\Exemplo_heran\u00E7a\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Exemplo_heran\u00E7a\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\ESEN\\Desktop\\M09\\Exemplo_heran\u00E7a\\Exemplo_heran\u00E7a\\Pessoa.cs",
+              "RelativeToolTip": "Exemplo_heran\u00E7a\\Pessoa.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAiwCsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:06:05.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ESEN\\Desktop\\M09\\Exemplo_heran\u00E7a\\Exemplo_heran\u00E7a\\Program.cs",
+              "RelativeDocumentMoniker": "Exemplo_heran\u00E7a\\Program.cs",
+              "ToolTip": "C:\\Users\\ESEN\\Desktop\\M09\\Exemplo_heran\u00E7a\\Exemplo_heran\u00E7a\\Program.cs",
+              "RelativeToolTip": "Exemplo_heran\u00E7a\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:03:35.193Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

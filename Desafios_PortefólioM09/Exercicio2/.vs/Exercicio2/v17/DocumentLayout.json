@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ESEN\\Desktop\\M09\\Desafios_Portef\u00F3lioM09\\Exercicio2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85771F1E-2CD1-46A7-94E6-19DD88276BF7}|Exercicio2\\Exercicio2.csproj|C:\\Users\\ESEN\\Desktop\\M09\\Desafios_Portef\u00F3lioM09\\Exercicio2\\exercicio2\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85771F1E-2CD1-46A7-94E6-19DD88276BF7}|Exercicio2\\Exercicio2.csproj|solutionrelative:exercicio2\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85771F1E-2CD1-46A7-94E6-19DD88276BF7}|Exercicio2\\Exercicio2.csproj|c:\\users\\esen\\desktop\\m09\\desafios_portef\u00F3liom09\\exercicio2\\exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85771F1E-2CD1-46A7-94E6-19DD88276BF7}|Exercicio2\\Exercicio2.csproj|solutionrelative:exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Quadrado.cs",
+              "DocumentMoniker": "C:\\Users\\ESEN\\Desktop\\M09\\Desafios_Portef\u00F3lioM09\\Exercicio2\\Exercicio2\\Quadrado.cs",
+              "RelativeDocumentMoniker": "Exercicio2\\Quadrado.cs",
+              "ToolTip": "C:\\Users\\ESEN\\Desktop\\M09\\Desafios_Portef\u00F3lioM09\\Exercicio2\\Exercicio2\\Quadrado.cs",
+              "RelativeToolTip": "Exercicio2\\Quadrado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:56:37.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ESEN\\Desktop\\M09\\Desafios_Portef\u00F3lioM09\\Exercicio2\\Exercicio2\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio2\\Program.cs",
+              "ToolTip": "C:\\Users\\ESEN\\Desktop\\M09\\Desafios_Portef\u00F3lioM09\\Exercicio2\\Exercicio2\\Program.cs",
+              "RelativeToolTip": "Exercicio2\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:55:55.267Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\ESEN\Desktop\M09\Exemplo_herança\Exemplo_herança\bin\Debug\Exemplo_herança.exe.config
+C:\Users\ESEN\Desktop\M09\Exemplo_herança\Exemplo_herança\bin\Debug\Exemplo_herança.exe
+C:\Users\ESEN\Desktop\M09\Exemplo_herança\Exemplo_herança\bin\Debug\Exemplo_herança.pdb
+C:\Users\ESEN\Desktop\M09\Exemplo_herança\Exemplo_herança\obj\Debug\Exemplo_herança.csproj.AssemblyReference.cache
+C:\Users\ESEN\Desktop\M09\Exemplo_herança\Exemplo_herança\obj\Debug\Exemplo_herança.csproj.CoreCompileInputs.cache
+C:\Users\ESEN\Desktop\M09\Exemplo_herança\Exemplo_herança\obj\Debug\Exemplo_herança.exe
+C:\Users\ESEN\Desktop\M09\Exemplo_herança\Exemplo_herança\obj\Debug\Exemplo_herança.pdb
