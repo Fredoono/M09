@@ -1,0 +1,2 @@
+C:\Users\ESEN\Desktop\M09\Desafios_PortefólioM09\GestVeiculo (exemplo B)\GestVeiculo (exemplo B)\obj\Debug\GestVeiculo (exemplo B).csproj.AssemblyReference.cache
+C:\Users\ESEN\Desktop\M09\Desafios_PortefólioM09\GestVeiculo (exemplo B)\GestVeiculo (exemplo B)\obj\Debug\GestVeiculo (exemplo B).csproj.CoreCompileInputs.cache

@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace Exercicio4
 {
-    internal class BilheteVip:Bilhete
+    internal class BilheteVip : Bilhete
     {
+        //propriedades
         double Valor_extra;
 
         //métedo que tetorna o valor total
@@ -22,6 +23,13 @@ namespace Exercicio4
             double Total = GetValor() + Valor_extra;
             Console.WriteLine(Total);
         }
+        //construtor
+        public BilheteVip(double Valor_extra, double valor):base(valor)
+        {
+            this.Valor_extra = Valor_extra;
+        }
+        public BilheteVip()
+        { this.valor = 0; }
     }
 
 }

@@ -9,7 +9,7 @@ namespace Exercicio4
     internal class Bilhete
     {
         //propriadades
-        double valor;
+        protected double valor;
 
         //métedos
         public virtual double MostrarValor()
@@ -20,6 +20,12 @@ namespace Exercicio4
             {
                 return valor;
             }
+        //construtor
+        public Bilhete(double valor)
+            { this.valor = valor; }
+
+        public Bilhete()
+        { this.valor = 0; }
     }
 
 }

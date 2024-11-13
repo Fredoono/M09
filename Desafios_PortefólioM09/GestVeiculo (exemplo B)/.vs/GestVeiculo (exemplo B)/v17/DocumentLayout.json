@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ESEN\\Desktop\\PSI 11\\M09\\Desafios_Portef\u00F3lioM09\\GestVeiculo (exemplo B)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3ABC29-8237-4019-AD54-1CF4DC8311F7}|GestVeiculo (exemplo B)\\GestVeiculo (exemplo B).csproj|C:\\Users\\ESEN\\Desktop\\PSI 11\\M09\\Desafios_Portef\u00F3lioM09\\GestVeiculo (exemplo B)\\gestveiculo (exemplo b)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF3ABC29-8237-4019-AD54-1CF4DC8311F7}|GestVeiculo (exemplo B)\\GestVeiculo (exemplo B).csproj|solutionrelative:gestveiculo (exemplo b)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3ABC29-8237-4019-AD54-1CF4DC8311F7}|GestVeiculo (exemplo B)\\GestVeiculo (exemplo B).csproj|C:\\Users\\ESEN\\Desktop\\PSI 11\\M09\\Desafios_Portef\u00F3lioM09\\GestVeiculo (exemplo B)\\gestveiculo (exemplo b)\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF3ABC29-8237-4019-AD54-1CF4DC8311F7}|GestVeiculo (exemplo B)\\GestVeiculo (exemplo B).csproj|solutionrelative:gestveiculo (exemplo b)\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3ABC29-8237-4019-AD54-1CF4DC8311F7}|GestVeiculo (exemplo B)\\GestVeiculo (exemplo B).csproj|C:\\Users\\ESEN\\Desktop\\PSI 11\\M09\\Desafios_Portef\u00F3lioM09\\GestVeiculo (exemplo B)\\gestveiculo (exemplo b)\\automovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF3ABC29-8237-4019-AD54-1CF4DC8311F7}|GestVeiculo (exemplo B)\\GestVeiculo (exemplo B).csproj|solutionrelative:gestveiculo (exemplo b)\\automovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3ABC29-8237-4019-AD54-1CF4DC8311F7}|GestVeiculo (exemplo B)\\GestVeiculo (exemplo B).csproj|c:\\users\\esen\\desktop\\psi 11\\m09\\desafios_portef\u00F3liom09\\gestveiculo (exemplo b)\\gestveiculo (exemplo b)\\proprietario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF3ABC29-8237-4019-AD54-1CF4DC8311F7}|GestVeiculo (exemplo B)\\GestVeiculo (exemplo B).csproj|solutionrelative:gestveiculo (exemplo b)\\proprietario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "automovel.cs",
+              "DocumentMoniker": "C:\\Users\\ESEN\\Desktop\\PSI 11\\M09\\Desafios_Portef\u00F3lioM09\\GestVeiculo (exemplo B)\\GestVeiculo (exemplo B)\\automovel.cs",
+              "RelativeDocumentMoniker": "GestVeiculo (exemplo B)\\automovel.cs",
+              "ToolTip": "C:\\Users\\ESEN\\Desktop\\PSI 11\\M09\\Desafios_Portef\u00F3lioM09\\GestVeiculo (exemplo B)\\GestVeiculo (exemplo B)\\automovel.cs",
+              "RelativeToolTip": "GestVeiculo (exemplo B)\\automovel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:29:07.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Proprietario.cs",
+              "DocumentMoniker": "C:\\Users\\ESEN\\Desktop\\PSI 11\\M09\\Desafios_Portef\u00F3lioM09\\GestVeiculo (exemplo B)\\GestVeiculo (exemplo B)\\Proprietario.cs",
+              "RelativeDocumentMoniker": "GestVeiculo (exemplo B)\\Proprietario.cs",
+              "ToolTip": "C:\\Users\\ESEN\\Desktop\\PSI 11\\M09\\Desafios_Portef\u00F3lioM09\\GestVeiculo (exemplo B)\\GestVeiculo (exemplo B)\\Proprietario.cs",
+              "RelativeToolTip": "GestVeiculo (exemplo B)\\Proprietario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T10:54:57.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\ESEN\\Desktop\\PSI 11\\M09\\Desafios_Portef\u00F3lioM09\\GestVeiculo (exemplo B)\\GestVeiculo (exemplo B)\\veiculo.cs",
+              "RelativeDocumentMoniker": "GestVeiculo (exemplo B)\\veiculo.cs",
+              "ToolTip": "C:\\Users\\ESEN\\Desktop\\PSI 11\\M09\\Desafios_Portef\u00F3lioM09\\GestVeiculo (exemplo B)\\GestVeiculo (exemplo B)\\veiculo.cs",
+              "RelativeToolTip": "GestVeiculo (exemplo B)\\veiculo.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAewCQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T10:52:56.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ESEN\\Desktop\\PSI 11\\M09\\Desafios_Portef\u00F3lioM09\\GestVeiculo (exemplo B)\\GestVeiculo (exemplo B)\\Program.cs",
+              "RelativeDocumentMoniker": "GestVeiculo (exemplo B)\\Program.cs",
+              "ToolTip": "C:\\Users\\ESEN\\Desktop\\PSI 11\\M09\\Desafios_Portef\u00F3lioM09\\GestVeiculo (exemplo B)\\GestVeiculo (exemplo B)\\Program.cs",
+              "RelativeToolTip": "GestVeiculo (exemplo B)\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T10:52:09.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
